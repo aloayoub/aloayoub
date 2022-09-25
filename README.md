@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+
+### Connect with me :smiley:
+<a href="">
+  <img align="left" alt="Alounai Ayoub Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
