@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p>
-  <img width="380" align='right' src="https://github-readme-stats.vercel.app/api?username=aloayoub&show_icons=true&hide_border=true"></a>
-</p>
-<br>
 
 ### Languages and Tools:
 
