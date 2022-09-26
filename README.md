@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with an engineer degree in Software engineering and systems integration. </br>
+🌱 I’m a Full Stack Engineer with an engineer degree in Software engineering and systems integration. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 <br/>
